@@ -2,7 +2,7 @@
   "name": "vibc-core-smart-contracts",
   "version": "1.0.0",
   "main": "index.js",
-  "repository": "https://github.com/open-ibc/vibc-core-smart-contracts",
+  "repository": "https://github.com/ditsyandrea22/test-vibc",
   "license": "MIT",
   "dependencies": {
     "solhint": "^4.1.1"
